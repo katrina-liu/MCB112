@@ -1,0 +1,13 @@
+{
+	"n_targets": 10,
+	"n_bootstraps": 0,
+	"n_processed": 100000,
+	"n_pseudoaligned": 100000,
+	"n_unique": 278,
+	"p_pseudoaligned": 100.0,
+	"p_unique": 0.3,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Wed Sep 21 00:14:30 2022",
+	"call": "kallisto quant -i generated.idx -o generated_output --single -l 75 -s 10 generated.fastq"
+}
