@@ -1,0 +1,13 @@
+isoform       est.tau       true
+Arc1            0.045      0.046
+Arc2            0.294      0.293
+Arc3            0.126      0.128
+Arc4            0.090      0.089
+Arc5            0.016      0.017
+Arc6            0.015      0.017
+Arc7            0.008      0.006
+Arc8            0.196      0.196
+Arc9            0.090      0.089
+Arc10           0.120      0.120
+logL, estimated tau = -2168735.9
+logL, true tau      = -2168747.2
